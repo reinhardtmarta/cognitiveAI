@@ -41,7 +41,7 @@ Instead of trying to "align" a single powerful AI, this architecture:
 
 ### Layer Structure
 
-``'
+```
 ┌─────────────────────────────────────────┐
 │         FILTERED INPUT                  │
 │  (Rules + AI filters on user queries)   │
@@ -81,7 +81,7 @@ Instead of trying to "align" a single powerful AI, this architecture:
                           │
                           ▼
                       [HUMANS]
-``
+```
 ---
 
 ### Information Flow
