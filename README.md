@@ -1,8 +1,6 @@
 
 # Cognitive AI: Secure and Fragmented Distributed Intelligence
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 **Repository:** https://github.com/reinhardtmarta/cognitiveAI
 
 ---
@@ -337,12 +335,7 @@ This architecture provides a **structural solution** to an **existential problem
 
 ## 📜 LICENSE
 
-This project is licensed under **MIT License** - see [LICENSE](LICENSE) file.
-
-Free to use, modify, and distribute with attribution.
-
-The architecture and concepts are openly shared to maximize AI safety benefit to humanity.
-
+Apache 2.0
 ---
 
 ## 🔗 LINKS & RESOURCES
